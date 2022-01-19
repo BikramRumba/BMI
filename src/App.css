@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.btn{
+  font-size:large;
+  border-color: #282c34;
+  border-radius: 3rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.btn:hover {
+  color: #c0be2d;
+  pointer-events: visible;
+  font-size: xx-large;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
